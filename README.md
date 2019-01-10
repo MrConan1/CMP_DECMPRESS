@@ -9,5 +9,5 @@ Performs 8-bit/16-bit/32-bit decompression
 Usage: cmp_decmpress [options] inputFile outputFile
 
 Available options:
-    -f offset Byte offset in input file to begin compression.
+    -f offset (Byte offset in input file to begin compression)
 
