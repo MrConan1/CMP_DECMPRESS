@@ -16,4 +16,4 @@ install: cmp_decmpress
 	$(INSTALL) cmp_decmpress $(bindir)
 
 clean:
-rm -f cmp_decmpress
+	rm -f cmp_decmpress
